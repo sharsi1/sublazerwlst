@@ -13,7 +13,7 @@ Self generated wordlists for fun and profit.
 
 ## sonar
 
-Parsed subdomains from Project Sonar by Rapid7: https://github.com/rapid7/sonar/wiki, february 2018.
+Parsed subdomains from Project Sonar by Rapid7: https://github.com/rapid7/sonar/wiki (dump with 1B+ entities), february 2018.
 
 ## top10k
 
