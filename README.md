@@ -19,5 +19,6 @@ Parsed subdomains from Project Sonar by Rapid7: https://github.com/rapid7/sonar/
 
 Very useful wordlists based on top 10K most popular domains in the world and Russia from magic source.
 
-## sublazer - modest subdomain search tool
-Coming soon... For now, choose your wordlist here.
+## Questions?
+The popularity (frequency) of some subdomains surprised me, i double-checked the dumps and stay surprised)) 
+For now, choose your wordlist here.
